@@ -8,7 +8,7 @@ class Search extends StatelessWidget {
         child: Container(//iske andar sab ayega(a box is made on screen)
           // child: Text('Hello'),
           // color: Color.fromRGBO(94, 37, 93, 100),
-          decoration: BoxDecoration(
+          decoration: const BoxDecoration(
               gradient: LinearGradient(colors: [
                 Colors.black,
                 Color.fromRGBO(74, 29, 73, 100)
